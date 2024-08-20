@@ -1,1 +1,1 @@
-# Uber-Price-Prediction
+# Ride-Hailing-Price-Prediction
